@@ -35,6 +35,7 @@ else:
 
   <body>
     <a href="logout.php">Logout</a>
+    <a href="deleteAccount.php?id=<?php echo $id; ?>">Delete Account</a>
 
     <div class="photo">
 
